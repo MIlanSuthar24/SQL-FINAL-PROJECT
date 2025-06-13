@@ -1,0 +1,16 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Ignore environment or config files
+.env
+*.ini
+
+# Ignore OS-generated folders
+__MACOSX/
